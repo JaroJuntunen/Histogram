@@ -37,6 +37,7 @@ namespace Hist
 			if (this->list[i] != 0)
 				return EInteger(i);
 		}
+		return Zero;
 	}
 
 	EInteger Histogram::getMaxValue() const
@@ -47,5 +48,5 @@ namespace Hist
 				return EInteger(i);
 		}
 	}
-	
+	return Zero;
 }
