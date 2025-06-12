@@ -1,4 +1,5 @@
-ifndef HISTOGRAM_H
+// ----------------- Histogram.h ---------------
+#ifndef HISTOGRAM_H
 #define HISTOGRAM_H
 
 #include "HistogramBase.h"

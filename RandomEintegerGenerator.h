@@ -1,3 +1,4 @@
+// ----------------- RandomEintegerGenerator.h ---------------
 ifndef RANDOMEINTEGERGENERATOR_H
 #define RANDOMEINTEGERGENERATOR_H
 

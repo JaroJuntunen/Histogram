@@ -1,3 +1,4 @@
+// ----------------- Histogram.cpp ---------------
 #include "Histogram.h"
 
 namespace Hist
